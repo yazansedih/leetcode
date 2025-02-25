@@ -39,4 +39,12 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yazansedih/leetcode/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yazansedih/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yazansedih/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
