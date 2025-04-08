@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/yazansedih/leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/yazansedih/leetcode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
