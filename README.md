@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/yazansedih/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/yazansedih/leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
