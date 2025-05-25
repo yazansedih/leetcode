@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yazansedih/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/yazansedih/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/yazansedih/leetcode/tree/master/0189-rotate-array) |
 ## String
@@ -112,5 +113,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yazansedih/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/yazansedih/leetcode/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yazansedih/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
