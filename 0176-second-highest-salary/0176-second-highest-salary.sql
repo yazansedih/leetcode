@@ -5,4 +5,4 @@ FROM (
     FROM Employee
     ORDER BY salary DESC
     LIMIT 1 OFFSET 1
-) e
+) e;
