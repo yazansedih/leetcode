@@ -21,6 +21,7 @@
 | [0125-valid-palindrome](https://github.com/yazansedih/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yazansedih/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/yazansedih/leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/yazansedih/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0006-zigzag-conversion](https://github.com/yazansedih/leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/yazansedih/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yazansedih/leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/yazansedih/leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yazansedih/leetcode/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/yazansedih/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
