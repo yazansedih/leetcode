@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/yazansedih/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/yazansedih/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/yazansedih/leetcode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0141-linked-list-cycle](https://github.com/yazansedih/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yazansedih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yazansedih/leetcode/tree/master/0217-contains-duplicate) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0002-add-two-numbers](https://github.com/yazansedih/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/yazansedih/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/yazansedih/leetcode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yazansedih/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## String
 |  |
@@ -155,4 +158,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/yazansedih/leetcode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
