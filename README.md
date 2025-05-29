@@ -43,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yazansedih/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/yazansedih/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yazansedih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yazansedih/leetcode/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/yazansedih/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/yazansedih/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/yazansedih/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/yazansedih/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yazansedih/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yazansedih/leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/yazansedih/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yazansedih/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yazansedih/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/yazansedih/leetcode/tree/master/0392-is-subsequence) |
