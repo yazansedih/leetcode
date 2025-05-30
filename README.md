@@ -43,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yazansedih/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazansedih/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/yazansedih/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yazansedih/leetcode/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/yazansedih/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/yazansedih/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/yazansedih/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazansedih/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/yazansedih/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yazansedih/leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/yazansedih/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazansedih/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yazansedih/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yazansedih/leetcode/tree/master/0125-valid-palindrome) |
