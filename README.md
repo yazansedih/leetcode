@@ -49,6 +49,7 @@
 | [0169-majority-element](https://github.com/yazansedih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yazansedih/leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/yazansedih/leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yazansedih/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/yazansedih/leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0020-valid-parentheses](https://github.com/yazansedih/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yazansedih/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yazansedih/leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/yazansedih/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/yazansedih/leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
