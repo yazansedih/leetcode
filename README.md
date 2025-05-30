@@ -74,6 +74,7 @@
 | [0012-integer-to-roman](https://github.com/yazansedih/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazansedih/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yazansedih/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/yazansedih/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yazansedih/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/yazansedih/leetcode/tree/master/0392-is-subsequence) |
 ## Stack
