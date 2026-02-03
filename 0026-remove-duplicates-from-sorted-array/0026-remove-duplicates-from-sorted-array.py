@@ -1,16 +1,14 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
         if not nums:
             return 0
-
-        k = 1  # index for next unique element
-
+        
+        # count keeps track of unique elements placed
+        count = 1
+        
         for i in range(1, len(nums)):
-            if nums[i] != nums[i - 1]:
-                nums[k] = nums[i]
-                k += 1
-        return k
+            if nums[i] != nums[i-1]:
+                nums[count] = nums[i]  # place the unique element
+                count += 1  # move count to next position
+        
+        return count
