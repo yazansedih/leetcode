@@ -3,12 +3,11 @@ class Solution:
         if not nums:
             return 0
         
-        # count keeps track of unique elements placed
         count = 1
         
         for i in range(1, len(nums)):
             if nums[i] != nums[i-1]:
-                nums[count] = nums[i]  # place the unique element
-                count += 1  # move count to next position
+                nums[count] = nums[i]  
+                count += 1 
         
         return count
