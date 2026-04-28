@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/yazansedih/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/yazansedih/leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0643-maximum-average-subarray-i](https://github.com/yazansedih/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/yazansedih/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yazansedih/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yazansedih/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/yazansedih/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
