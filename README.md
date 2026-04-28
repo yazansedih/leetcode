@@ -58,10 +58,12 @@
 | [0219-contains-duplicate-ii](https://github.com/yazansedih/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yazansedih/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/yazansedih/leetcode/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yazansedih/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yazansedih/leetcode/tree/master/0169-majority-element) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yazansedih/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0187-repeated-dna-sequences](https://github.com/yazansedih/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/yazansedih/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/yazansedih/leetcode/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yazansedih/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0187-repeated-dna-sequences](https://github.com/yazansedih/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/yazansedih/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yazansedih/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yazansedih/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
