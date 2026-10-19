@@ -25,9 +25,9 @@ class Solution(object):
                     while left < right and nums[left] == nums[left - 1]:
                         left += 1
 
-                elif total > 0:
-                    right -= 1
-                else:
+                elif total < 0:
                     left += 1
+                else:
+                    right -= 1
 
         return result
