@@ -1,17 +1,19 @@
-class Solution:
-    def rotate(self, nums: List[int], k: int) -> None:
+class Solution(object):
+    def rotate(self, nums, k):
         """
-        Do not return anything, modify nums in-place instead.
+        :type nums: List[int]
+        :type k: int
+        :rtype: None Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        k = k % n
+        if nums is None:
+            return nums
 
-        nums[:] = nums[-k:] + nums[:-k] 
-        # # reverse whole array
-        # nums.reverse()
+        # avoid loops
+        k = k % len(nums) 
 
-        # # reverse first k elements
-        # nums[:k] = reversed(nums[:k])
+        mid = len(nums) - k
 
-        # # reverse remaining
-        # nums[k:] = reversed(nums[k:])
+        nums[:] = nums[mid:] + nums[:mid]
+
+        return nums
+        
