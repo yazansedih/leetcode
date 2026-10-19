@@ -233,4 +233,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yazansedih/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yazansedih/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
