@@ -1,15 +1,10 @@
-class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-        if len(nums) <= 2:
-            return len(nums)
+class Solution(object):
+    def removeDuplicates(self, nums):
+        k = 0
 
-        count = 2
-        for i in range(2, len(nums)):
-            # allow nums[i] if it doesn't create a 3rd duplicate
-            if nums[i] != nums[count - 2]:
-                nums[count] = nums[i]
-                count += 1
+        for num in nums:
+            if k < 2 or num != nums[k - 2]:
+                nums[k] = num
+                k += 1
 
-        return count
-
-
+        return k
