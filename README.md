@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/yazansedih/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yazansedih/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/yazansedih/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/yazansedih/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yazansedih/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/yazansedih/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/yazansedih/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -290,11 +291,13 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yazansedih/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/yazansedih/leetcode/tree/master/0068-text-justification) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yazansedih/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/yazansedih/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/yazansedih/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yazansedih/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
