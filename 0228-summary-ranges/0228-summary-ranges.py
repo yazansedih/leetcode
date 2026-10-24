@@ -9,7 +9,6 @@ class Solution(object):
 
         for i in range(1, len(nums)):
             if nums[i] - nums[i - 1] != 1:
-
                 if start == i - 1:
                     result.append(str(nums[start]))
                 else:
