@@ -4,13 +4,15 @@ class Solution(object):
 
         while n != 1 and n not in seen:
             seen.add(n)
-            sum_pow = 0
+            happy_sum = 0
 
             while n > 0:
                 digit = n % 10
-                sum_pow += digit ** 2
+                happy_sum += digit ** 2
                 n //= 10
 
-            n = sum_pow
+            n = happy_sum
 
         return n == 1
+
+            
