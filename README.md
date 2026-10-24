@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/yazansedih/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yazansedih/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/yazansedih/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/yazansedih/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/yazansedih/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yazansedih/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/yazansedih/leetcode/tree/master/0068-text-justification) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yazansedih/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/yazansedih/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yazansedih/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yazansedih/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yazansedih/leetcode/tree/master/0217-contains-duplicate) |
@@ -71,6 +73,7 @@
 | [0012-integer-to-roman](https://github.com/yazansedih/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazansedih/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/yazansedih/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/yazansedih/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yazansedih/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/yazansedih/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yazansedih/leetcode/tree/master/0169-majority-element) |
@@ -114,6 +117,7 @@
 | [0014-longest-common-prefix](https://github.com/yazansedih/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yazansedih/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yazansedih/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/yazansedih/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yazansedih/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/yazansedih/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/yazansedih/leetcode/tree/master/0125-valid-palindrome) |
