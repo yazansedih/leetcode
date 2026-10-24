@@ -1,17 +1,13 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        num_map = {}  # value -> index
+        seen = {}
 
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement in num_map:
-                return [num_map[complement], i]
-            num_map[num] = i
+        for i in range(len(nums)):
+            complment = target - nums[i]
 
-        # Problem guarantees one solution, but just in case
-        return []
+            if complment in seen:
+                return [seen[complment], i]
+
+            seen[nums[i]] = i
+
+        return seen
