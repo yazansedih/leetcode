@@ -9,11 +9,10 @@ class Solution(object):
         }
 
         for char in s:
-            # Opening bracket
-            if char not in pairs: 
+
+            if char not in pairs:
                 stack.append(char)
 
-            # Closing bracket
             else:
                 if not stack or stack.pop() != pairs[char]:
                     return False
