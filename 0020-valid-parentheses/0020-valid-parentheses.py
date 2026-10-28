@@ -9,7 +9,6 @@ class Solution(object):
         }
 
         for char in s:
-
             # Opening bracket
             if char not in pairs: 
                 stack.append(char)
