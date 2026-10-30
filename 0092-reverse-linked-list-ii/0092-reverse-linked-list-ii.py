@@ -21,14 +21,11 @@ class Solution(object):
         for _ in range(right - left):
 
             next_node = current.next
-
-            temp = prev.next
             
             current.next = next_node.next
 
-            next_node.next = temp
+            next_node.next = prev.next
 
             prev.next = next_node
-
 
         return dummy.next
