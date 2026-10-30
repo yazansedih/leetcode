@@ -20,5 +20,5 @@ class Solution(object):
             current.next = prev
             prev = current
             current = next_node
-
+            
         return prev
