@@ -22,10 +22,13 @@ class Solution(object):
 
             next_node = current.next
 
+            temp = prev.next
+            
             current.next = next_node.next
 
-            next_node.next = prev.next
+            next_node.next = temp
 
             prev.next = next_node
+
 
         return dummy.next
