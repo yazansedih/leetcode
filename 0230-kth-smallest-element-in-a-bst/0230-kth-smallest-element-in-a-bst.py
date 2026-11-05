@@ -3,11 +3,11 @@ class Solution(object):
         self.count = 0
         self.result = None
 
-        def inorder(node):
-            if not node or self.result is not None:
+        def inOrder(node):
+            if node is None or self.result is not None:
                 return
 
-            inorder(node.left)
+            inOrder(node.left)
 
             self.count += 1
 
@@ -15,8 +15,8 @@ class Solution(object):
                 self.result = node.val
                 return
 
-            inorder(node.right)
+            inOrder(node.right)
 
-        inorder(root)
+        inOrder(root)
 
         return self.result
