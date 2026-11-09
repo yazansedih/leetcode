@@ -4,32 +4,25 @@ class Solution(object):
         :type grid: List[List[str]]
         :rtype: int
         """
-
-        m = len(grid)
-        n = len(grid[0])
-        count = 0
+        
+        rows = len(grid)
+        cols = len(grid[0])
+        count  = 0
 
         def dfs(i, j):
-            # Check boundaries
-            if i < 0 or i >= m or j < 0 or j >= n:
+            
+            if i < 0 or i >= rows or j < 0 or j >= cols or grid[i][j] == "0":
                 return
 
-            # Stop if water or already visited
-            if grid[i][j] == "0":
-                return
-
-            # Mark land as visited
             grid[i][j] = "0"
 
-            # Explore four directions
-            dfs(i - 1, j)  # Up
-            dfs(i + 1, j)  # Down
-            dfs(i, j - 1)  # Left
-            dfs(i, j + 1)  # Right
+            dfs(i - 1, j)
+            dfs(i + 1, j)
+            dfs(i, j - 1)
+            dfs(i, j + 1)
 
-        # Traverse the entire grid
-        for i in range(m):
-            for j in range(n):
+        for i in range(rows):
+            for j in range(cols):
                 if grid[i][j] == "1":
                     count += 1
                     dfs(i, j)
