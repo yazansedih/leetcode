@@ -218,6 +218,7 @@
 | [1670-patients-with-a-condition](https://github.com/yazansedih/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/yazansedih/leetcode/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yazansedih/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1757-recyclable-and-low-fat-products](https://github.com/yazansedih/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/yazansedih/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/yazansedih/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/yazansedih/leetcode/tree/master/1811-fix-names-in-a-table) |
