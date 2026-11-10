@@ -22,7 +22,6 @@ class Solution(object):
             dfs(i, j + 1)
 
         # 1. Start DFS from boundary O's
-
         for i in range(rows):
             dfs(i, 0)
             dfs(i, cols - 1)
@@ -32,7 +31,6 @@ class Solution(object):
             dfs(rows - 1, j)
 
         # 2. Process the entire board
-
         for i in range(rows):
             for j in range(cols):
 
