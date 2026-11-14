@@ -20,7 +20,7 @@ class Solution(object):
 
             # Create a new node
             clone = Node(node.val)
-
+ 
             # Save it before exploring neighbors
             visited[node] = clone
 
