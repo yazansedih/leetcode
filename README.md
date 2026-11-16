@@ -201,6 +201,7 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/yazansedih/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/yazansedih/leetcode/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/yazansedih/leetcode/tree/master/1278-product-price-at-a-given-date) |
+| [1280-students-and-examinations](https://github.com/yazansedih/leetcode/tree/master/1280-students-and-examinations) |
 | [1292-immediate-food-delivery-ii](https://github.com/yazansedih/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/yazansedih/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/yazansedih/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
