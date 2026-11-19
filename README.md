@@ -199,6 +199,7 @@
 | [1161-project-employees-i](https://github.com/yazansedih/leetcode/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/yazansedih/leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/yazansedih/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1251-average-selling-price](https://github.com/yazansedih/leetcode/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/yazansedih/leetcode/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/yazansedih/leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/yazansedih/leetcode/tree/master/1280-students-and-examinations) |
