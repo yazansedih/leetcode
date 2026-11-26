@@ -8,6 +8,4 @@ SELECT
         SUM(q1.rating < 3) * 100.0 / COUNT(*)
     , 2) AS poor_query_percentage
 FROM Queries q1
-LEFT JOIN Queries q2
-    ON q1.query_name = q2.query_name
 GROUP BY q1.query_name
